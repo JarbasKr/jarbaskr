@@ -16,7 +16,7 @@
 <div id="Linguagens conhecidas">
 <img width="12%" src="./.github/html5.png">
 <img width="12%" src="./.github/css-3.png">
-<img width="12%" src="./.github/JS.png">
+<img width="12%" src="./.github/js.png">
 <img width="12%" src="./.github/React-icon.svg.png">
 </div>
 
