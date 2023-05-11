@@ -3,7 +3,7 @@
 ### informações sobre mim
 
 <ul>
-<li>Tenho 20 anos.
+<li>Tenho 21 anos.
 <li>Estou no meu segundo ano de ciência da computação pela Barão de Mauá - RP.
 <li>Atualmente estudando banco de dados.
 <li>Sempre disposto a aprender algo novo.
