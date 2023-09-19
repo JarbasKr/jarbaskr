@@ -5,7 +5,7 @@
 <ul>
 <li>Tenho 21 anos.
 <li>Estou no meu segundo ano de ciência da computação pela Barão de Mauá - RP.
-<li>Programador Junior - Python, C++, VB, GMC/Inspire.
+<li>Programador Junior - Python, C++, VB, SQL Server, GMC/Inspire.
 </ul>
 
 ##
