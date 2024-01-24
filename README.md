@@ -4,7 +4,7 @@
 
 <ul>
 <li>Tenho 21 anos.
-<li>Estou no meu segundo ano de ciência da computação pela Barão de Mauá - RP.
+<li>Estou no meu terceiro ano de ciência da computação pela Barão de Mauá - RP.
 <li>Programador Junior - Python, C/C++, HTML/CSS, Javascript, VB, Batch, SQL Server.
 </ul>
 
