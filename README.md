@@ -5,7 +5,7 @@
 <ul>
 <li>22 years old.
 <li>Currently at my third year of college studying computer science.
-<li>Working as a Junior Developer at SmarApd, using Python and C++ to create efficient data algorithms.
+<li>Working as a FullStack Developer at SMARAPD.
 <li>Improving my skills in .NET development.
 </ul>
 
