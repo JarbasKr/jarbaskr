@@ -5,7 +5,7 @@
 <ul>
 <li>22 years old.
 <li>Currently at my third year of college studying computer science.
-<li>Working as a FullStack Developer at SMARAPD.
+<li>Working as a Fullstack Developer at SMARAPD.
 <li>Improving my skills in .NET development.
 </ul>
 
