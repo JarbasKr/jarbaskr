@@ -6,7 +6,7 @@
 <li>22 years old.
 <li>Currently at my third year of college studying computer science.
 <li>Working as a Fullstack Developer.
-<li>Improving my skills in .NET development.
+<li>Improving my skills in software architecture.
 </ul>
 
 ##
