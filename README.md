@@ -34,7 +34,8 @@
 ### Statistics
 
 ![JarbasKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarbaskr&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JarbasKr&layout=compact)](https://github.com/JarbasKr/github-readme-stats)
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarbasKr&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
