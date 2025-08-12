@@ -3,7 +3,7 @@
 ### My personal info
 
 <ul>
-<li>22 years old.
+<li>23 years old.
 <li>Currently at my third year of college studying computer science.
 <li>Working as a Fullstack Developer.
 <li>Improving my skills in software architecture.
